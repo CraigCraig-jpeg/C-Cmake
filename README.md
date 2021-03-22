@@ -1,6 +1,10 @@
 # C-Cmake
+Download the file and extract
+
 Cmake and file creator for c++.it includes making use of the compiler
+
 next copy the Dev2 file into your home directory for instance
+
 home/your name or the name /Dev2...
 
 you will need:
