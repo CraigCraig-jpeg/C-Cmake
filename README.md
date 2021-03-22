@@ -1,8 +1,12 @@
 # C-Cmake
 Cmake and file creator for c++.it includes making use of the compiler
+next copy the Dev2 file into your home directory for instance
+home/your name or the name /Dev2...
 
 you will need:
 -g++ codelite cmake
+
+run sudo apt install g++ codelite Cmake vim
 
 additionally(preference):
 -vim
