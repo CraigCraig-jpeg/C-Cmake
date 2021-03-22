@@ -8,16 +8,16 @@ next copy the Dev2 file into your home directory for instance
 home/your name or the name /Dev2...
 
 you will need:
--g++ codelite cmake
+-"g++ codelite cmake"
 
-run sudo apt install g++ codelite Cmake vim
+run "sudo apt install g++ codelite Cmake vim"
 
 additionally(preference):
 -vim
 
-now type in terminal cd 
-then type cd /your name or the name/Dev2/maker
-next type in chmod +x script.sh && ./script.sh
+now type in terminal "cd"
+then type "cd /your name or the name/Dev2/maker"
+next type in "chmod +x script.sh && ./script.sh"
 
 the now running script.sh in the terminal:
 it will prompt you for your name or the name and the name for the file you want to make
