@@ -13,8 +13,9 @@ additionally(preference):
 
 now type in terminal cd 
 then type cd /your name or the name/Dev2/maker
+next type in chmod +x script.sh && ./script.sh
 
-now run script.sh in the terminal
+the now running script.sh in the terminal:
 it will prompt you for your name or the name and the name for the file you want to make
 
 run it and DONE!
